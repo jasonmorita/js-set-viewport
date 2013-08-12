@@ -1,5 +1,4 @@
 
-
   //sweet hack to set meta viewport for desktop sites squeezing down to mobile that are big and have a fixed width 
   //first see if they have window.screen.width avail
   (function() {
